@@ -7,10 +7,10 @@
 
 Nome: Leonardo Rodrigues da Costa
 
-
 RA: 146895
 
 Especialização: Física
+
 ---
 # Apresentacão 
 Este projeto foi feito para a disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2022, na Unicamp.
